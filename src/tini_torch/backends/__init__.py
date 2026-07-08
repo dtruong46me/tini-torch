@@ -1,0 +1,1 @@
+"""Backend abstractions (CPU/GPU)."""
